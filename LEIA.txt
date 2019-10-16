@@ -10,3 +10,8 @@ setwd("local completo do projeto")
 E quando for carregar os datasets, ex (função read.cs2):
 pagamentos = read.csv2("local do dataset" , sep=",")
 
+O dataset 'olist_geolocation_dataset.csv' deve ser baixado e colocado 
+na pasta de datasets. 
+https://github.com/olist/work-at-olist-data/tree/master/datasets
+
+
